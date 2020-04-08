@@ -1,5 +1,5 @@
 # rasp_pi_photogate_tracks
-Code to measure marble speeds on two tracks using a photogate
+Code to measure marble speeds on two tracks using a photogate. Assumption: marbles' speed are drastically different.
 
 # Getting Started
 Ensure you have a mapping of your GPIO pins for your Raspberry Pi from documentation or
